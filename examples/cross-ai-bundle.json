@@ -1,0 +1,26 @@
+{
+  "style_rules": "本书目证据包示例选用 GB/T 7714-2015。",
+  "items": [
+    {
+      "id": "R1",
+      "reference": "Xing Chen,Dan Peng,Wei Wu,Hui Liu,Xunjia Zheng. Active Control of Torsional Vibration during Mode Switching of Hybrid Powertrain Based on Adaptive Model Reference. Machines, 2022, 10(8): 647. doi:10.3390/machines10080647",
+      "evidence": [
+        {
+          "id": "P1",
+          "kind": "publication_record",
+          "url": "https://www.mdpi.com/2075-1702/10/8/647",
+          "locator": "题名、作者及出版信息",
+          "authors": ["Xing Chen", "Dan Peng", "Wei Wu", "Hui Liu", "Xunjia Zheng"],
+          "text": "正式出版记录为 Xing Chen、Dan Peng、Wei Wu、Hui Liu、Xunjia Zheng，Machines，2022 年，10 卷 8 期，文章号 647，DOI 10.3390/machines10080647。"
+        },
+        {
+          "id": "S1",
+          "kind": "style_rule",
+          "url": "https://www.gzhs.edu.cn/__local/3/E9/1F/315AF23DF4096B8B83BF1536251_381D5654_B47BB.pdf",
+          "locator": "GB/T 7714-2015 第 8.1.1、8.1.2 条",
+          "text": "个人作者姓在前、名在后。汉语拼音人名的姓全大写，名可用每个汉字拼音的首字母缩写。著作方式相同的责任者超过三位时，著录前三位并加逗号和等或相应外文词。"
+        }
+      ]
+    }
+  ]
+}

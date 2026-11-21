@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scholarly Citation Audit"
+  short_description: "核验文末参考文献的真实性、书目信息和著录格式，导出一份审查 PDF"
+  default_prompt: "用 $manuscript-citation-audit 核验这份稿件的文末参考文献，生成一份审查 PDF，并按我的设置导出修正版书目。"
